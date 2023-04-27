@@ -1,4 +1,4 @@
-# MilestoneProjects \n
-M1-TicTacToe \n
-M2-BlackJack \n
+# MilestoneProjects 
+M1-TicTacToe 
+M2-BlackJack
 M3-WarGame
